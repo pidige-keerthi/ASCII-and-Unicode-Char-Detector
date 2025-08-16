@@ -1,0 +1,1 @@
+# ASCII-and-Unicode-Char-Detector
